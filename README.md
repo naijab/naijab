@@ -1,18 +1,22 @@
-# naijab.com
+## 🧔🏻 Nattapon Pondongnok
 
-<h3> 🧔🏻 Nattapon Pondongnok</h3>
-<h5>Fullstack Software Engineer</h5>
-- iOS
-- Flutter
-- Web
-- DevOps
-<h6>🇹🇭 Bangkok, THAILAND</h6>
+Fullstack Software Engineer
+🇹🇭 Bangkok, THAILAND
+- iOS (swift)
+- Flutter (dart)
+- Web (react, vue, js)
+- DevOps (docker, k8s, linux)
 
 
-### `about me`
+### Status
+- 📌 My goal for 2021 is create first open source project in soon.
+- 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
+- 📝 I'm blogging on [medium](https://medium.com/@naijab) 
 
-- Who is love 🐧 linux!
-- 🎮 Disciple of Dark Souls
+### about me
+
+- Who is love 🐧 linux! and 🤖 programming
+- 🎮 Disciple of Dark Souls, PS4
 
 ---
 
