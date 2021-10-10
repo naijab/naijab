@@ -2,14 +2,44 @@
 
 Fullstack Software Engineer
 🇹🇭 Bangkok, THAILAND
-- iOS (swift)
-- Flutter (dart)
-- Web (react, vue, js)
-- DevOps (docker, k8s, linux)
+
+- Mobile 
+  - iOS (Swift)
+  - Android (Kotlin)
+  - Flutter (Dart)
+
+- Web
+  - Frontend (JavaScript, TypeScript)
+    - React
+    - Vue.js
+    - Angular
+  - Backend (Restful API, graphQL, Micro Service)
+    - Express (JavaScript, TypeScript)
+    - Laravel (php)
+    - Spring boot (Java, Kotlin)
+    - Gin (golang)
+    - Ruby on rails (Ruby)
+
+- Database
+  - SQL
+    - MariaDB, MySQL
+    - PostgresQL
+  - NoSQL
+    - MongoDB
+    - Firebase Cloud Firestore
+  - In memory
+    - Redis
+    
+- DevOps
+  - CI
+    - Github Actions
+    - Gitlab CI
+  - Docker
+  - Kubernetes (K8S)
 
 
 ### Status
-- 📌 My goal for 2021 is create first open source project in soon.
+- 📌 I'm create opensource project at [naijabx](https://github.com/naijabx)
 - 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
 - 📝 I'm blogging on [medium](https://medium.com/@naijab) 
 
