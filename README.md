@@ -39,13 +39,15 @@ Fullstack Software Engineer
   - Docker
   - Kubernetes (K8S)
 
-
 ### Status
 - 📌 I'm create opensource project at [naijabx](https://github.com/naijabx)
 - 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
 - 📝 I'm blogging on [medium](https://medium.com/@naijab) 
 
-### about me
+### Tools
+- Astronvim Config (Neovim) [see config](https://github.com/naijab/astronvim-config)
+
+### About me
 
 - Who is love 🐧 linux! and 🤖 programming
 - 🎮 Disciple of Dark Souls, PS4
