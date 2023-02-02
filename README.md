@@ -5,22 +5,28 @@
 Fullstack Software Engineer
 🇹🇭 Bangkok, THAILAND
 
-- Mobile 
-  - iOS (Swift)
-  - Android (Kotlin)
-  - Flutter (Dart)
+
+### Status
+- ⭐️ I'm looking for a Full Stack job (BE: Spring with Kotlin or Golang; FE: React or Vue). I can start work in July 2023.
+- 📌 I'm create opensource project at [naijabx](https://github.com/naijabx)
+- 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
+- 📝 I'm blogging on [medium](https://medium.com/@naijab) 
 
 - Web
   - Frontend (JavaScript, TypeScript)
     - React
-    - Vue.js
+    - Vue
     - Angular
   - Backend (Restful API, graphQL, Micro Service)
-    - Express (JavaScript, TypeScript)
-    - Laravel (php)
     - Spring boot (Java, Kotlin)
     - Gin (golang)
+    - Express (JavaScript, TypeScript)
     - Ruby on rails (Ruby)
+
+- Mobile 
+  - iOS (Swift)
+  - Android (Kotlin)
+  - Flutter (Dart)
 
 - Database
   - SQL
@@ -39,13 +45,9 @@ Fullstack Software Engineer
   - Docker
   - Kubernetes (K8S)
 
-### Status
-- 📌 I'm create opensource project at [naijabx](https://github.com/naijabx)
-- 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
-- 📝 I'm blogging on [medium](https://medium.com/@naijab) 
-
 ### Tools
-- Astronvim Config (Neovim) [see config](https://github.com/naijab/astronvim-config)
+- Main Machine: 💻 MacBook Pro 14 with M1 Pro
+- Text Editor: 𝒉 [Helix](https://github.com/helix-editor/helix)
 
 ### About me
 
