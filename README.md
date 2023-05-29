@@ -5,12 +5,17 @@
 Fullstack Software Engineer
 🇹🇭 Bangkok, THAILAND
 
+### About me
+- Who is love 🐧 linux! and 🤖 programming
+- 🎮 Disciple of Dark Souls, PS4
+
 
 ### Status
 - 📌 I'm create opensource project at [naijabx](https://github.com/naijabx)
 - 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
 - 📝 I'm blogging on [medium](https://medium.com/@naijab) 
 
+### Stack
 - Web
   - Frontend (JavaScript, TypeScript)
     - React
@@ -18,9 +23,8 @@ Fullstack Software Engineer
     - Angular
   - Backend (Restful API, graphQL, Micro Service)
     - Spring boot (Java, Kotlin)
-    - Gin (golang)
+    - Fiber (golang)
     - Express (JavaScript, TypeScript)
-    - Ruby on rails (Ruby)
 
 - Mobile 
   - iOS (Swift)
@@ -46,11 +50,6 @@ Fullstack Software Engineer
 
 ### Tools
 - Main Machine: 💻 MacBook Pro 14 with M1 Pro
-
-### About me
-
-- Who is love 🐧 linux! and 🤖 programming
-- 🎮 Disciple of Dark Souls, PS4
 
 ---
 
