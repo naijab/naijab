@@ -7,7 +7,6 @@ Fullstack Software Engineer
 
 
 ### Status
-- ⭐️ I'm looking for a Full Stack job (BE: Spring with Kotlin or Golang; FE: React or Vue). I can start work in July 2023.
 - 📌 I'm create opensource project at [naijabx](https://github.com/naijabx)
 - 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
 - 📝 I'm blogging on [medium](https://medium.com/@naijab) 
@@ -47,7 +46,6 @@ Fullstack Software Engineer
 
 ### Tools
 - Main Machine: 💻 MacBook Pro 14 with M1 Pro
-- Text Editor: 𝒉 [Helix](https://github.com/helix-editor/helix)
 
 ### About me
 
