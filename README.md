@@ -17,9 +17,10 @@ Fullstack Software Engineer
 ### Stack
 - Web
   - Frontend (JavaScript, TypeScript)
-    - React, Vue, Angular
-  - Backend (Restful API, graphQL, Micro Service)
+    - React, Vue, Angular, TailwindCSS
+  - Backend (Restful API, graphQL, Microservice)
     - Spring boot (Java, Kotlin), Nest.js (TypeScript), Fiber (golang)
+    - Message Queue: Kafka, RabbitMQ
 
 - Mobile 
   - iOS (Swift), Android (Kotlin), Flutter (Dart)
@@ -36,8 +37,8 @@ Fullstack Software Engineer
 
 ### Tools
 - 💻 Main Machine:  MacBook Pro 14 with M1 Pro (2021 version)
-- 📝 Text Editor: LazyVim (Neovim) [Neovim Config](https://github.com/naijab/lazyvim-config)
-- 🚥 Shell: ZSH, tmux [Dotfile](https://github.com/naijab/dot_file)
+- 📝 Text Editor: LazyVim (Neovim) - [Neovim Config](https://github.com/naijab/lazyvim-config)
+- 🚥 Shell: ZSH, tmux - [Dotfile](https://github.com/naijab/dot_file)
 - 🚏 Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 
 ---
@@ -51,5 +52,3 @@ if want to support me. thanks for coffee!
 </br>
 
   [![naijab's github stats](https://github-readme-stats.vercel.app/api?username=naijab&show_icons=true&theme=radical)](https://github.com/naijab)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naijab&theme=radical&layout=compact)](https://github.com/naijab)
