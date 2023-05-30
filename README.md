@@ -9,7 +9,6 @@ Fullstack Software Engineer
 - Who is love 🐧 linux! and 🤖 programming
 - 🎮 Disciple of Dark Souls, PS4
 
-
 ### Status
 - 📌 I'm create opensource project at [naijabx](https://github.com/naijabx)
 - 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
@@ -18,38 +17,28 @@ Fullstack Software Engineer
 ### Stack
 - Web
   - Frontend (JavaScript, TypeScript)
-    - React
-    - Vue
-    - Angular
+    - React, Vue, Angular
   - Backend (Restful API, graphQL, Micro Service)
-    - Spring boot (Java, Kotlin)
-    - Fiber (golang)
-    - Express (JavaScript, TypeScript)
+    - Spring boot (Java, Kotlin), Nest.js (TypeScript), Fiber (golang)
 
 - Mobile 
-  - iOS (Swift)
-  - Android (Kotlin)
-  - Flutter (Dart)
+  - iOS (Swift), Android (Kotlin), Flutter (Dart)
 
 - Database
-  - SQL
-    - MariaDB, MySQL
-    - PostgresQL
-  - NoSQL
-    - MongoDB
-    - Firebase Cloud Firestore
-  - In memory
-    - Redis
+  - SQL: MariaDB, PostgresQL
+  - NoSQL: MongoDB, Firebase Cloud Firestore
+  - In memory: Redis
     
 - DevOps
-  - CI
-    - Github Actions
-    - Gitlab CI
-  - Docker
-  - Kubernetes (K8S)
+  - CI: Github Actions, Gitlab CI
+  - Container: Docker
+  - Container Orchestration: Kubernetes (K8S)
 
 ### Tools
-- Main Machine: 💻 MacBook Pro 14 with M1 Pro
+- 💻 Main Machine:  MacBook Pro 14 with M1 Pro (2021 version)
+- 📝 Text Editor: LazyVim (Neovim) [Neovim Config](https://github.com/naijab/lazyvim-config)
+- 🚥 Shell: ZSH, tmux [Dotfile](https://github.com/naijab/dot_file)
+- 🚏 Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 
 ---
 
