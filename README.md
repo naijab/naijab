@@ -40,6 +40,7 @@ Fullstack Software Engineer
 - 📝 Text Editor: LazyVim (Neovim) - [Neovim Config](https://github.com/naijab/lazyvim-config)
 - 🚥 Shell: ZSH, tmux - [Dotfile](https://github.com/naijab/dot_file)
 - 🚏 Terminal: [Alacritty](https://github.com/alacritty/alacritty)
+- 🔤 Font: [Iosevka Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka)
 
 ---
 
