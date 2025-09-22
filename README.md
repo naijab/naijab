@@ -4,13 +4,13 @@
 
 <a href="https://stackoverflow.com/users/7575602/naijab-com"><img src="https://stackoverflow.com/users/flair/7575602.png?theme=dark" width="208" height="58" alt="profile for naijab.com at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for naijab.com at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-More than fourth years of **Fullstack Software Engineer** experience in both website and mobile technology stacks. 
+More than four years of **Fullstack Software Engineer** experience in both website and mobile technology stacks. 
 
-Who is love 🐧 linux! and 🤖 programming. 🎮 Disciple of Dark Souls, PS4 and Zelda
+Who is love 🐧 linux! and 🤖 programming. 🎮 Disciple of Dark Souls, PS4, and Zelda
 
 ### Status
-- 📌 I'm create opensource project at [naijabx](https://github.com/naijabx)
-- 🧑🏻‍💻 I'm re-building and re-design my website [naijab.com](https://naijab.com)
+- 📌 I'm creating an open-source project at [naijabx](https://github.com/naijabx)
+- 🧑🏻‍💻 I'm rebuilding and redesigning my website [naijab.com](https://naijab.com)
 - 📝 I'm blogging on [medium](https://medium.com/@naijab) 
 
 ### Contact
