@@ -11,7 +11,11 @@ Who is love 🐧 linux! and 🤖 programming. 🎮 Disciple of Dark Souls, PS4, 
 ### Status
 - 📌 I'm creating an open-source project at [naijabx](https://github.com/naijabx)
 - 🧑🏻‍💻 I'm rebuilding and redesigning my website [naijab.com](https://naijab.com)
-- 📝 I'm blogging on [medium](https://medium.com/@naijab) 
+- 📝 I'm blogging on [medium](https://medium.com/@naijab)
+
+### Badge
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jabnattapon)
