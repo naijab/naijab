@@ -15,6 +15,7 @@ Who is love 🐧 linux! and 🤖 programming. 🎮 Disciple of Dark Souls, PS4, 
 
 ### Badge
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/a8b4ba9c-faed-45e3-a704-1cb15ed094af" title="watsonx.ai Generative AI Tools Technical Sales Intermediate"><img src="https://images.credly.com/size/80x80/images/407e0edf-ccf0-40cf-bc83-0030afa31066/watsonx_20ai_20Generative_20AI_20Tools_20TSI.png" alt="watsonx.ai Generative AI Tools Technical Sales Intermediate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/7d3ab2b2-1770-461a-bdc2-6dc335f94ff6" title="IBM Growth Behaviors"><img src="https://images.credly.com/size/80x80/images/d244c828-b281-4669-9b3b-761fdd4ea870/IBM-Growth-Behaviors.png" alt="IBM Growth Behaviors" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c58f4f04-964b-4ba9-97cf-f37091a60e00" title="IBM Generative AI Foundations"><img src="https://images.credly.com/size/80x80/images/98961274-6d4f-4346-81fe-330d21483cbe/AI-Generative-AI-Foundations.png" alt="IBM Generative AI Foundations" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/131370f1-fb9a-4e8c-b58e-7df508fc512a" title="Banking Insights and Solutions (Bronze)"><img src="https://images.credly.com/size/80x80/images/10cb0426-abee-4acf-bc5d-6ddaf41570dc/Banking-Industry-Bronze.png" alt="Banking Insights and Solutions (Bronze)" width="80" height="80"></a>
